@@ -8,7 +8,7 @@ npm install
     Create a database with your user inside mysql and update env file with db name and credentials
 #### Step 2
     Update env with your gmail account email and google app password using the link below
-<a href="https://devanswers.co/create-application-specific-password-gmail/" />
+    https://devanswers.co/create-application-specific-password-gmail/"
 
 #### Step 3
     php artisan migrate (will create the required tables)
